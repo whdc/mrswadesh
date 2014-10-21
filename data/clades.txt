@@ -1,0 +1,73 @@
+#IE : uniform 5000 10000
+  #NIE
+    #IIE
+      #Italo-Celtic
+        #Celtic
+          #Goidelic
+            Old_Irish : uniform 1100 1300
+              Irish [Irish_B]
+              Scots_Gaelic
+          #British
+            Breton [Breton_ST]
+            #SW_British
+              Welsh [Welsh_N]
+              Cornish : uniform 200 400
+
+        #Italic
+          Latin : uniform 2100 2200
+            Romanian [Rumanian_List]
+            #W_Romance
+              Spanish
+              French
+
+      #Germanic
+        Gothic : uniform 1625 1675
+        #NW_Germanic
+          #N_Germanic
+            Old_Icelandic [Old_Norse] : uniform 750 850
+              Icelandic [Icelandic_ST]
+              Norwegian
+          #W_Germanic
+            Old_English : uniform 950 1050
+              English
+            Old_High_German : uniform 1100 1200
+              German
+              Swiss_German [Schwyzerdutsch]
+
+      #Balto-Slavic
+        #Baltic
+          Lithuanian [Lithuanian_ST]
+          Latvian
+        #Slavic
+          Czech
+          Russian
+          S_Slavic
+            Macedonian
+            Old_Church_Slavic [Old_Church_Slavonic] : uniform 950 1050
+
+      #Graeco-Armenian
+        Ancient_Greek : uniform 2400 2500
+          Modern_Greek [Greek_Mod]
+
+        Classical_Armenian : uniform 1500 1600
+          E_Armenian [Armenian_Mod]
+          Adapazar [Armenian_List]
+
+      #Indo-Iranian
+        #Iranian
+          Avestan : uniform 2450 2550
+          #W_Iranian
+            #P-T
+              Tajik [Tadzik]
+              Persian
+            Baluchi
+        #Indic
+          Vedic_Sanskrit : uniform 3000 3500
+            Assamese
+            Hindi
+
+    #Tocharic
+      Tocharian_B : uniform 1200 1500
+
+  #Anatolian
+    Hittite : uniform 3300 3500
